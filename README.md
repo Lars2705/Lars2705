@@ -1,6 +1,6 @@
 Hi there, my name is Lars 👋
 
-----
+<hr>
 
 📫 How to reach me: 
 
