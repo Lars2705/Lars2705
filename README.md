@@ -4,8 +4,8 @@ Hi there, my name is Lars 👋
 
 ***
 
-📫 How to reach me: 
+<h2> 📫 How to reach me: </h2> 
 
 * Connect with me on [Linkdin](https://www.linkedin.com/in/lars-roberbuell)
 
-<h1> Lanugage and tools </h1>
+<h2> Lanugage and tools </h2>
