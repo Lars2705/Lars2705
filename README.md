@@ -18,5 +18,5 @@ Hi there, my name is Lars 👋
 [<img src= "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" width="50" height="50">](https://www.java.com/en/)
 [<img src= "https://external-preview.redd.it/V77U-n3OuvNr2I14hRYUcyXBJ1C9dEMV3HUt3dAIViw.png?auto=webp&s=20d05cf394bd203741ddfdffa904af94fdd90544" width="50" height="50">](https://www.gnu.org/software/bash/)
 [<img src= "https://cdn.liveagent.com/app/uploads/2020/11/MySQL-Logo.png" width="50" height="50">](https://www.mysql.com/)
-[<img src= "https://th.bing.com/th/id/Rb3e6202f5356edebd8c8205623eef0f1?rik=2tDqbcLpDFguLg&riu=http%3A%2F%2Fwww.shadowandy.net%2Fwp%2Fwp-content%2Fuploads%2Fdocker.png&ehk=d2o4OLvE5SZOjrajjCgOCdzXQ9xmehUy6vTEhPPFi3c%3D&risl=&pid=ImgRaw" width="50" height="50">](https://www.docker.com/)
+[<img src= "https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png" width="50" height="50">](https://www.docker.com/)
 [<img src= "https://miro.medium.com/max/766/1*Yf48dlC5RhXYPV3gLeaLdg.png" width="50" height="50">](https://git-scm.com/)
