@@ -12,5 +12,5 @@ Hi there, my name is Lars 👋
 
 <!-- [![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/800px-Python.svg.png)](https://www.python.org/)-->
 
-[<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/800px-Python.svg.png" width="50" height="50">](https://www.python.org/)
+[[python]<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/800px-Python.svg.png" width="50" height="50">](https://www.python.org/)
 
