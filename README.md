@@ -10,6 +10,6 @@ Hi there, my name is Lars 👋
 
 <h3> Language and Tools </h3>
 
-<!-- ![This is an image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png) -->
+ ![This is an image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png width="150" height="280") 
 
-[This is an image](https://www.python.org/)
+
