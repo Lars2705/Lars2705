@@ -12,4 +12,4 @@ Hi there, my name is Lars 👋
 
 <!-- ![This is an image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png) -->
 
-![This is an image](https://www.python.org/)
+[This is an image](https://www.python.org/)
