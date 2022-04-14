@@ -4,7 +4,8 @@ Hi there, my name is Lars 👋
 
 ***
 
-<h3> 📫 How to reach me: </h3> 
+<h3> 📫 How to reach me: **lars27055@gmail.com || s341899@oslomet.no** </h3> 
+
 
 * Connect with me on [Linkdin](https://www.linkedin.com/in/lars-roberbuell)
 
