@@ -3,7 +3,7 @@ Hi there, my name is Lars 👋
 <!-- <hr> -->
 
 ***
-
+![](https://komarev.com/ghpvc/?username=Lars2705&color=blueviolet)
 <h3> 📫 How to reach me:</h3> 
 
 
