@@ -8,7 +8,7 @@ Hi there, my name is Lars 👋
 
 
 * Connect with me on [Linkdin](https://www.linkedin.com/in/lars-roberbuell)
-* **lars27055@gmail.com || s341899@oslomet.no**
+* **lars27055@gmail.com ||  **
 
 <h3> Language and Tools </h3>
 
